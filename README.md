@@ -8,7 +8,7 @@ This application allows users to search for countries and it displays basic info
 
    - User interface built with React.
    - Utilizes React Hooks for state management.
-   - Fetches country data from the University of [Helsinki Rest Countries API](https://studies.cs.helsinki.fi/restcountries/) to display information.
+   - Fetches country data from the [University of Helsinki Rest Countries API](https://studies.cs.helsinki.fi/restcountries/) to display information.
    - Allows users to search for countries by name.
    - Displays a list of countries based on the search input.
    - Provides information about a selected country, including its capital, population, languages, and flag.
