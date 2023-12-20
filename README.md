@@ -19,7 +19,7 @@ This application allows users to search for countries and it displays basic info
   - Frontend: React, React Hooks.
   - State Management: useState, useEffect.
   - API Requests: Axios.
-  - External APIs: [Helsinki Rest Countries API](https://studies.cs.helsinki.fi/restcountries/), [OpenWeatherMap API](https://openweathermap.org/).
+  - External APIs: [University of Helsinki Rest Countries API](https://studies.cs.helsinki.fi/restcountries/), [OpenWeatherMap API](https://openweathermap.org/).
 
 ## What Did I Learn?
 
